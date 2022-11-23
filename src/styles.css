@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
+
+.images {
+    border: 1px solid grey;
+    text-align: center;
+}
